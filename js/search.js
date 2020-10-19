@@ -114,10 +114,9 @@ function loadPage() {
     for (var i = 0; i < data.length; i++) {
         if (data[i].Title.includes(keyword) || data[i].Tags.includes(keyword)) {
             keyData.push(data[i])
-            // console.log("find" + data[i].Title)
+            console.log("find" + data[i].Title)
         }
     }
-    keyData.reverse()
 
     nowList = []
 

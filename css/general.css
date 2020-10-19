@@ -37,7 +37,6 @@ body {
   left: 2vw;
   opacity: 60%;
   z-index: 99;
-  display: inline-block;
 }
 #Footer .footer-btn {
   margin: 1vw 1.5vw;
@@ -47,7 +46,7 @@ body {
 }
 #Footer .right-stuff {
   position: relative;
-  bottom: 0vw;
+  bottom: 4vw;
   right: 2vw;
   float: right;
   text-align: right;
