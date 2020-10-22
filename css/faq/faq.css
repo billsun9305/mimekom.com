@@ -22,7 +22,8 @@ body {
 }
 
 #Main {
-  background-image: url("../../img/faq/bg1.png");
+  /* background-image: url("../../img/faq/bg1.png"); */
+  background-color: #f2f2f2;
   background-repeat: repeat;
   width: 100%;
   padding: 5vw 15vw;
