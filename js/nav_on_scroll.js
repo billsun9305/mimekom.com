@@ -3,7 +3,11 @@
 //     var currentScrollPos = window.pageYOffset;
 //     if (prevScrollpos > currentScrollPos) {
 //         document.getElementById("mainNav").style.top = "0";
-//     } else {
+//     } 
+//     else if (currentScrollPos<=0){
+//         document.getElementById("mainNav").style.top = "0";
+//     }
+//     else {
 //         document.getElementById("mainNav").style.top = "-80px";
 //     }
 //     prevScrollpos = currentScrollPos;
