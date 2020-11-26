@@ -261,7 +261,6 @@
         
         background-size: contain;
         background-repeat: no-repeat;
-        margin-top: 33vw;
         margin-left: 50vw;
         width: 40vw;
         height: 65vw;
@@ -269,18 +268,19 @@
     }
     #Feature .block-mobile .phone3 {
         background-image: url("../../img/homepage/3.gif");
+        margin-top: 39vw;
     }
     #Feature .block-mobile .phone4 {
         background-image: url("../../img/homepage/4.gif");
-        margin-top: 51vw !important;
+        margin-top: 43vw !important;
     }
     #Feature .block-mobile .phone5 {
         background-image: url("../../img/homepage/5.gif");
-        margin-top: 58vw !important;
+        margin-top: 45vw !important;
     }
     #Feature .block-mobile .phone6 {
         background-image: url("../../img/homepage/6.gif");
-        margin-top: 56vw !important;
+        margin-top: 45vw !important;
     }
 
     #Contact-us .block-mobile {
