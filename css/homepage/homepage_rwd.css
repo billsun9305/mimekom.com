@@ -240,7 +240,7 @@
         color: white;
     }
     #Feature .block-mobile .phone1 {
-        background-image: url("../../img/homepage/phone2.gif");
+        background-image: url("../../img/homepage/1.gif");
         background-size: contain;
         background-repeat: no-repeat;
         margin-top: 33vw;
@@ -250,15 +250,15 @@
         display: inline-block;
     }
     #Feature .block-mobile .phone2 {
-        background-image: url("../../img/homepage/phone2.gif");
+        background-image: url("../../img/homepage/2.gif");
         background-size: contain;
         background-repeat: no-repeat;
         width: 40vw;
         height: 65vw;
         display: inline-block;
     }
-    #Feature .block-mobile .phone3 {
-        background-image: url("../../img/homepage/phone2.png");
+    #Feature .block-mobile .phone {
+        
         background-size: contain;
         background-repeat: no-repeat;
         margin-top: 33vw;
@@ -266,6 +266,21 @@
         width: 40vw;
         height: 65vw;
         display: inline-block;
+    }
+    #Feature .block-mobile .phone3 {
+        background-image: url("../../img/homepage/3.gif");
+    }
+    #Feature .block-mobile .phone4 {
+        background-image: url("../../img/homepage/4.gif");
+        margin-top: 51vw !important;
+    }
+    #Feature .block-mobile .phone5 {
+        background-image: url("../../img/homepage/5.gif");
+        margin-top: 58vw !important;
+    }
+    #Feature .block-mobile .phone6 {
+        background-image: url("../../img/homepage/6.gif");
+        margin-top: 56vw !important;
     }
 
     #Contact-us .block-mobile {
