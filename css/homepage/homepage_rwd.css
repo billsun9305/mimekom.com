@@ -356,14 +356,17 @@
     #Feature .dark-block {
         height: 160vw;
     }
-    #Feature .block-mobile .phone1 {
-        margin-top: 43vw;
-    }
-    #Feature .block-mobile .phone2 {
-        margin-top: 43vw;
-    }
     #Feature .block-mobile .phone3 {
-        margin-top: 43vw;
+        margin-top: 39vw;
+    }
+    #Feature .block-mobile .phone4 {
+        margin-top: 47vw !important;
+    }
+    #Feature .block-mobile .phone5 {
+        margin-top: 40vw !important;
+    }
+    #Feature .block-mobile .phone6 {
+        margin-top: 36vw !important;
     }
     #Contact-us .block-mobile {
         height: 100vw;
@@ -393,15 +396,19 @@
     #Feature .dark-block {
         height: 170vw;
     }
-    #Feature .block-mobile .phone1 {
-        margin-top: 53vw;
-    }
-    #Feature .block-mobile .phone2 {
-        margin-top: 53vw;
-    }
     #Feature .block-mobile .phone3 {
-        margin-top: 53vw;
+        margin-top: 39vw;
     }
+    #Feature .block-mobile .phone4 {
+        margin-top: 64vw !important;
+    }
+    #Feature .block-mobile .phone5 {
+        margin-top: 60vw !important;
+    }
+    #Feature .block-mobile .phone6 {
+        margin-top: 45vw !important;
+    }
+    
 }
 /* @media all and (min-width:1501px){
 } */
