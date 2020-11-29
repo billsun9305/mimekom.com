@@ -208,6 +208,7 @@
         line-height: 3.7rem;
     }
 
+
     #Feature .block {
         display: none;
     }
@@ -221,6 +222,7 @@
         height: 145vw;
     }
     #Feature .md-title {
+        font-size: 2.0rem;
         margin-top: 3vw;
         font-weight: lighter;
     }
@@ -390,23 +392,34 @@
     #Information .certificate-text-mobile .md-title {
         line-height: 3.2frem;
     }
+    /* #Feature .md-title{
+
+    } */
     #Feature .light-block {
         height: 170vw;
     }
     #Feature .dark-block {
         height: 170vw;
     }
+    #Feature .block-mobile .phone1 {
+       
+        margin-top: 53vw;
+    }
+    #Feature .block-mobile .phone2 {
+        margin-top: 53vw;
+        
+    }
     #Feature .block-mobile .phone3 {
-        margin-top: 39vw;
+        margin-top: 53vw;
     }
     #Feature .block-mobile .phone4 {
-        margin-top: 64vw !important;
+        margin-top: 58vw !important;
     }
     #Feature .block-mobile .phone5 {
-        margin-top: 60vw !important;
+        margin-top: 54vw !important;
     }
     #Feature .block-mobile .phone6 {
-        margin-top: 45vw !important;
+        margin-top: 47vw !important;
     }
     
 }
