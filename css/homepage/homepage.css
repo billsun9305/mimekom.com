@@ -43,6 +43,11 @@
     border: 0.6px solid rgb(256, 256, 256, 0.5);
     padding: 0rem 0.75rem;
 }
+
+#Title .dl-btns .dl-btn:hover{
+    background-color: rgba(202, 195, 195, 0.6);
+}
+
 #Title .dl-btns .lg-text {
     float: left;
     font-weight: lighter;
