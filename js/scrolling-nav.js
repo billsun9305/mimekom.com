@@ -74,6 +74,13 @@ hide_dropdown(1);
 
 })(jQuery); // End of use strict
 
+
+
+
+
+
+
+
 //To the top animatio
 (function($) {
     "use strict"; // Start of use strict
