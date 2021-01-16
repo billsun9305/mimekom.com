@@ -81,7 +81,7 @@
     #Title .carousel-item {
         /* position: absolute; */
         margin-top: 13vw;
-        height: 50vw;
+        height: 57vw;
     }
     #Title .container {
         padding-left: 15px;
@@ -379,10 +379,10 @@
 }
 @media all and (max-width: 440px) {
     #Information {
-        height: 256vw;
+        height: 283vw;
     }
     #Information > .about-mimekom {
-        height: 110vw;
+        height: 129vw;
     }
     #Information .about-mimekom .play-btn {
         margin-left: 2vw;
@@ -396,30 +396,30 @@
 
     } */
     #Feature .light-block {
-        height: 170vw;
+        height: 195vw;
     }
     #Feature .dark-block {
-        height: 170vw;
+        height: 193vw;
     }
     #Feature .block-mobile .phone1 {
        
-        margin-top: 53vw;
+        margin-top: 62vw;
     }
     #Feature .block-mobile .phone2 {
         margin-top: 53vw;
         
     }
     #Feature .block-mobile .phone3 {
-        margin-top: 52vw;
+        margin-top: 69vw;
     }
     #Feature .block-mobile .phone4 {
-        margin-top: 55vw !important;
+        margin-top: 89vw !important;
     }
     #Feature .block-mobile .phone5 {
-        margin-top: 54vw !important;
+        margin-top: 85vw !important;
     }
     #Feature .block-mobile .phone6 {
-        margin-top: 47vw !important;
+        margin-top: 66vw !important;
     }
     
 }

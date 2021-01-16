@@ -165,7 +165,7 @@
     position: absolute;
     top: 15vw;
     left: 40vw;
-    width: 40vw;
+    width: 50vw;
     height: 46vw;
     color: white;
     display: block;
@@ -290,7 +290,7 @@
 }
 #Feature .block2 .block .text {
     position: relative;
-    top: 10vw;
+    top: 8vw;
     left: 10vw;
     width: 38vw;
     height: 40vw;
@@ -317,9 +317,9 @@
 }
 #Feature .block3 .block .text {
     position: relative;
-    top: -32vw;
+    top: -35vw;
     left: 50vw;
-    width: 38vw;
+    width: 48vw;
     height: 40vw;
     color: white;
 }
@@ -344,7 +344,7 @@
 }
 #Feature .block4 .block .text {
     position: relative;
-    top: 10vw;
+    top: 7vw;
     left: 10vw;
     width: 38vw;
     height: 40vw;
