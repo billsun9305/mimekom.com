@@ -12,7 +12,7 @@ var keyword = ""
 // console.log(lastUpdate)
 // add last Update
 var last_update_node = document.getElementById("last-update")
-last_update_node.innerHTML = "更新日期 | " + lastUpdate
+last_update_node.innerHTML = "Updated Date | " + lastUpdate
 
 function getUl() {
     return document.getElementById("myUl")

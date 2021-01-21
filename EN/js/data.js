@@ -1,10 +1,10 @@
 var data = [
 	{
 		"Id": "1",
-		"Title": "超級安全的硬體加密通訊APP—密ME通正式上線",
-		"Date": "2020-10-20",
-		"Thumbnail": false,
-		"Tags": "密ME通 加密 通訊APP 硬體 加密  全新 體驗 資安 MIMEKOM 國家安全認證 晶片卡 安全 官方 期許 杜絕",
-		"Content": "<img><br>密ME通官方網站正式上線，超級安全的加密通訊APP即將上市，以更注重資安的形象，期許帶給你全新的體驗、更安全的服務。<br><br>在現今通訊軟體發達的世代，資安問題往往成為公司行號或個人在通訊APP上溝通的隱憂，密ME通及是一款為資安而生的通訊APP，他擁有國家級安全認證的硬體加密晶片卡，讓硬體加密杜絕所有軟體加密的缺失。<br><br>立即體驗隨時隨地安心通訊，密ME通邀請你一同進入資安的世界!<br>"
+		"Title": "Super secure hardware encrypted communication APP is officially launched - MIMEKOM",
+		"Date": "Date 2020-10-20",
+		"Thumbnail": true,
+		"Tags": "super secure encrypted communication / mimekom / MIMEKOM / Chip manager / for information security / NIST /FIPS 140-2 Level 3/ safer communication enviornment / officially launched / Slim SIM / slim sim",
+		"Content": "<img><br>The MIMEKOM website is officially launched, and the super secure encrypted communication APP will be launched soon. Focus on the information security, we hope to provide a new experience and safer service on the communication app.<br><br>In the generation of advanced communication software, information security issues become a concern for companies or individuals to communicate on communication APPs. MIMEKOM is a secure communication APP born for information security and with a hardware security chip which is certified by NIST for FIPS 140-2 level 3. The hardware encryption Slim SIM is able to offer the safer communication enviornment.<br><br>MIMEKOM brings end-user the secure communication anytime/anywhere, and invites you to join the world of information security!"
 	}
 ]
