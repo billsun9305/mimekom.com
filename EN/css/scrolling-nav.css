@@ -4,7 +4,8 @@
   letter-spacing: 0;
   transition: top 0.5s;
 }
-.navtop {
+.navtop { 
+  /* 無效 */
   background-color: rgba(0, 0, 0, 0);
   -moz-transition: background-color 0.4s ease;
   -ms-transition: background-color 0.4s ease;
@@ -14,6 +15,7 @@
 }
 .navscrolled {
   background-color: #022142;
+  /* background-color: #dbdfe2; */
   -moz-transition: background-color 0.4s ease;
   -ms-transition: background-color 0.4s ease;
   -o-transition: background-color 0.4s ease;

@@ -176,7 +176,12 @@ var myFunction = function () {
     nowPage = pageId
     loadPage()
 }
+
 loadPage()
+
+
+
+
 // document.getElementsByClassName('page-btn').addEventListener('click', function () {
 //     var pageId = jQuery(this).attr("id");
 //     console.log("page", pageId)

@@ -1,17 +1,17 @@
 var hamburger_clicked=0;
 
-function hide_dropdown(first){
-    console.log($(window).width());
-    if ($(window).width()>767)
-        return;
-    if (first)
-         $('#nav-dropdown').hide();//hide immediately
-    $('#nav-dropdown').addClass("trans");
-    setTimeout(function(){
-        $('#nav-dropdown').hide();
-    },400);
-}
-hide_dropdown(1);
+// function hide_dropdown(first){
+//     console.log($(window).width());
+//     if ($(window).width()>767)
+//         return;
+//     if (first)
+//          $('#nav-dropdown').hide();//hide immediately
+//     $('#nav-dropdown').addClass("trans");
+//     setTimeout(function(){
+//         $('#nav-dropdown').hide();
+//     },400);
+// }
+// hide_dropdown(1);
 
 (function($) {
     "use strict"; // Start of use strict
@@ -40,6 +40,9 @@ hide_dropdown(1);
         $('.navbar-collapse').collapse('hide');
         
     });
+
+
+
     $('#hamburger_icon').click(function() {
         if (hamburger_clicked==0) { 
             $('#hamburger_icon').addClass("is-active");
@@ -66,7 +69,7 @@ hide_dropdown(1);
         }
 
     });
-    // Activate scrollspy to add active class to navbar items on scroll
+    // Activate scrollspy to add active class to navbar items on scroll 暫時沒用到
     $('body').scrollspy({
         target: '#mainNav',
         offset: 56
