@@ -41,7 +41,7 @@ node.appendChild(title)
 // add date
 var date = document.createElement("p")
 date.setAttribute("class", "xl-text block-date")
-date.innerHTML = "發布日期：" + data[data_id].Date
+date.innerHTML = "Update Date：" + data[data_id].Date
 node.appendChild(date)
 // add texts
 var texts = document.createElement("p")
