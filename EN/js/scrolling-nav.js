@@ -1,17 +1,17 @@
 var hamburger_clicked=0;
 
-// function hide_dropdown(first){
-//     console.log($(window).width());
-//     if ($(window).width()>767)
-//         return;
-//     if (first)
-//          $('#nav-dropdown').hide();//hide immediately
-//     $('#nav-dropdown').addClass("trans");
-//     setTimeout(function(){
-//         $('#nav-dropdown').hide();
-//     },400);
-// }
-// hide_dropdown(1);
+function hide_dropdown(first){
+    console.log($(window).width());
+    if ($(window).width()>767)
+        return;
+    if (first)
+         $('#nav-dropdown').hide();//hide immediately
+    $('#nav-dropdown').addClass("trans");
+    setTimeout(function(){
+        $('#nav-dropdown').hide();
+    },400);
+}
+hide_dropdown(1);
 
 (function($) {
     "use strict"; // Start of use strict
