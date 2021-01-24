@@ -85,11 +85,12 @@
 #Return-top .upper-part {
     background-color: #021142;
     color: white;
-    height: 12vw;
+    height: 10rem;
+    /* height: 12vw;
     min-height: 8rem;
-    max-height: 10rem;
+    max-height: 10rem; */
     width: 4vw;
-    padding: 1vw;
+    /* padding: 1vw; */
     text-decoration: none;
     display: flex;
     align-items: center;
