@@ -1,6 +1,28 @@
+@media all and (max-width: 1700px) {
+    #Feature .block1 .block .text{
+        width: 44vw;
+        top: -35vw;
+    }
+    #Feature .block2 .block .text{
+        width: 46vw;
+    }
+    #Feature .block2 .block .text .lg-text{
+        width: 42vw;
+    }
+    #Feature .block3 .block .text{
+        top: -37vw;
+    }
+    #Feature .block5 .block .text{
+        top:-34vw;
+    }
+}
+
 @media all and (max-width: 1500px) {
     #Information .lg-title {
         font-size: 2.5rem;
+    }
+    #Feature .block2 .block .text .lg-text{
+        width: 40vw;
     }
 }
 

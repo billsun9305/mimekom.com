@@ -125,7 +125,7 @@
     width: 88%;
     margin-left: 6%;
     margin-right: 6%;
-    height: 45vw;
+    height: 43vw;
 }
 #Information .about-mimekom .play-video {
     display: flex;
@@ -241,7 +241,7 @@
 #Feature .dark-block {
     background-color: #021142;
     width: 100%;
-    height: 50vw;
+    height: 55vw;
 }
 #Feature .block1 .block .phone1 {
     background-image: url("../../img/homepage/1.gif");
