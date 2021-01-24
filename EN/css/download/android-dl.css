@@ -49,6 +49,15 @@ body {
     height: 30vw;
     text-align: center;
 }
+
+.offset {
+    /* display: block; */
+    /* position: relative; */
+    /* top: 250px; */
+    /* visibility: hidden; */
+    padding-top: 70px;
+}
+
 .ios .block {
     width: 20vw;
     height: 30vw;
