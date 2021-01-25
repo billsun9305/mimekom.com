@@ -1,8 +1,14 @@
-/* @media all and (max-width:1500px){
-}*/
+@media all and (max-width:1700px){
+    #mimekomgoogleplay{
+        padding-bottom: 3vw;
+    }
+}
 
-/* @media all and (max-width:1300px) and (orientation: portrait){
-} */
+@media all and (max-width:1600px){
+    #mimekomgoogleplay{
+        padding-bottom: 2.6vw;
+    }
+}
 
 /* @media all and (max-width:900px){
 } */
